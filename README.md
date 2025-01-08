@@ -10,7 +10,7 @@ GitHubのサンプルサイトです．
 * Anacondaがインストールされていることが前提条件です．
 * 以下のPythonモジュールが必要です．
 ```bash
-pip install ultralystic
+pip install ultralytics
 ```
 
 ## 利用法
