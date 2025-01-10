@@ -6,16 +6,20 @@ GitHubのサンプルサイトです．
  
 * YOLOv8を用いて，サンプル画像の骨格情報を出力します．
   
-## インストール
+## インストール法
 * Anacondaがインストールされていることが前提条件です．
-* 以下のPythonモジュールが必要です．
+* リポジトリをクローンします．
+```bash
+git clone https://github.com/kitamura-lab/GitHubSample.git
+```
+* パッケージをインストールします．
 ```bash
 pip install ultralytics
 ```
 
 ## 利用法
  
-* 以下のように実行します．
+* プログラムを実行します．
 ```bash
 python pose.py
 ```
