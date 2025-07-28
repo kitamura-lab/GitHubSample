@@ -1,13 +1,13 @@
 # GitHubサンプル
 
-GitHubのサンプルサイトです．
+GitHubのサンプルサイトです．適当なフォルダにクローンして，動作することを確認してください．
 
 ## 機能
  
 * YOLOv8を用いて，サンプル画像の骨格情報を出力します．
   
 ## インストール法
-* Anacondaがインストールされていることが前提条件です．
+* Minicondaがインストールされていることが前提です．
 * リポジトリをクローンします．
 ```bash
 git clone https://github.com/kitamura-lab/GitHubSample.git
