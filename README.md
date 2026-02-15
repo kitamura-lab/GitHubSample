@@ -6,6 +6,7 @@
   
 ## インストール法
 
+* Miniconda等のPython実行環境が前提です．
 * リポジトリをクローンします．
 ```bash
 git clone https://github.com/kitamura-lab/GitHubSample.git
