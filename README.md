@@ -1,6 +1,6 @@
 # GitHubサンプル
 
-GitHubのサンプルサイトです．適当なフォルダにクローンして，動作することを確認してください．
+GitHubのサンプルサイトです．
 
 ## 機能
  
@@ -8,7 +8,6 @@ GitHubのサンプルサイトです．適当なフォルダにクローンし�
   
 ## インストール法
 
-* Minicondaがインストールされていることが前提です．
 * リポジトリをクローンします．
 ```bash
 git clone https://github.com/kitamura-lab/GitHubSample.git
@@ -21,7 +20,7 @@ pip install ultralytics
 ## 利用法
  
 * プログラムを実行します．
-  * 入力：画像（bus.jpg）
+  * 入力：サンプル画像（bus.jpg）
   * 出力：画像中の人物の骨格データ
 ```bash
 python pose.py
